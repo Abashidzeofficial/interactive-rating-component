@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [https://abashidzeofficial.github.io/Counter/](https://interactive-rating-component-mu-five.vercel.app/)
+- Live Site URL:(https://interactive-rating-component-mu-five.vercel.app/)
 
 
 
