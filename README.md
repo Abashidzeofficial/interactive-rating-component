@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL:[[(https://interactive-rating-component-mu-five.vercel.app/)] ](https://interactive-rating-component-mu-five.vercel.app/)
+- Live Site URL :https://interactive-rating-component-mu-five.vercel.app/
 
 
 
